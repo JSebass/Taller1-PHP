@@ -1,0 +1,23 @@
+.navbar{
+    background-color: #168201;
+    height: 150px;
+}
+.carousel{
+    height: 300px;
+    width: 710px;
+}
+body{
+    background-image: url('../imagenes/fondo.jpg');
+    background-size: 1220px 686px;
+}
+fieldset{
+    color: #000;
+    border-width: 2px;
+    
+}
+.cyan.darken-3 {
+    background-color: #168201 !important;
+}
+legend{
+    font-family: fantasy;
+}
